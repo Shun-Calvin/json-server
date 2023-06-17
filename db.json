@@ -1,9 +1,72 @@
-{
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
-}
+[
+  {
+    "username": "Brandon Jacobson",
+    "email": "Dimitri_Jacobi78@yahoo.com",
+    "dateofappointment": "2024-02-10",
+    "timeslot": "9:00am to 11:00am",
+    "phonenumber": "(963) 989-1359"
+  },
+  {
+    "username": "Judy Kutch",
+    "email": "Delbert75@yahoo.com",
+    "dateofappointment": "2024-05-06",
+    "timeslot": "9:00am to 11:00am",
+    "phonenumber": "(963) 984-1359"
+  },
+  {
+    "username": "Janis Goldner",
+    "email": "Margaretta.Weissnat8@gmail.com",
+    "dateofappointment": "2024-06-09",
+    "timeslot": "9:00am to 11:00am",
+    "phonenumber": "(893) 996-3204"
+  },
+  {
+    "username": "Milton Volkman",
+    "email": "Meggie.Borer@hotmail.com",
+    "dateofappointment": "2023-11-26",
+    "timeslot": "11:00am to 1:00pm",
+    "phonenumber": "(893) 913-3204"
+  },
+  {
+    "username": "Lance O'Reilly V",
+    "email": "Jacklyn.Treutel25@hotmail.com",
+    "dateofappointment": "2024-06-09",
+    "timeslot": "1:00pm to 3:00pm",
+    "phonenumber": "(247) 459-0673"
+  },
+  {
+    "username": "Alison Metz",
+    "email": "Bud.Walker3@hotmail.com",
+    "dateofappointment": "2023-08-29",
+    "timeslot": "1:00pm to 3:00pm",
+    "phonenumber": "(348) 755-1734"
+  },
+  {
+    "username": "Vivian Schumm",
+    "email": "Gabriel.Ankunding8@hotmail.com",
+    "dateofappointment": "2023-06-21",
+    "timeslot": "9:00am to 11:00am",
+    "phonenumber": "(965) 755-1734"
+  },
+  {
+    "username": "Jim Baumbach",
+    "email": "Coleman_Runolfsson@hotmail.com",
+    "dateofappointment": "2023-07-13",
+    "timeslot": "9:00am to 11:00am",
+    "phonenumber": "(951) 835-8124"
+  },
+  {
+    "username": "Blanca Prohaska",
+    "email": "Maci_Balistreri21@yahoo.com",
+    "dateofappointment": "2024-05-04",
+    "timeslot": "9:00am to 11:00am",
+    "phonenumber": "(725) 961-8525"
+  },
+  {
+    "username": "Levi Daugherty",
+    "email": "Gladyce.Towne4@gmail.com",
+    "dateofappointment": "2024-01-26",
+    "timeslot": "3:00pm to 5:00pm",
+    "phonenumber": "(786) 447-8765 "
+  }
+]
