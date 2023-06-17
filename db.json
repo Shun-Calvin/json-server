@@ -70,7 +70,7 @@
     "timeslot": "3:00pm to 5:00pm",
     "phonenumber": "(786) 447-8765 "
   }
-]
+],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 }
   ],
